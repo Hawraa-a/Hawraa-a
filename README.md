@@ -2,11 +2,15 @@
 </p>
 
 <h1 align="center">
-  Hi there, I'm Hawraa Al-Rawahi <span style="display:inline-block; animation: wave 2s infinite;">👋</span>
+  <span style="background: linear-gradient(90deg, #7F00FF, #FFFFFF); -webkit-background-clip: text; color: transparent;">
+    Hi there, I'm Hawraa Al-Rawahi
+  </span> 
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 </h1>
 
+
 <p align="center">
-  💻 Information Technology | 🌸 AI & Programming Enthusiast
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=000000&center=true&vCenter=true&width=435&lines=Information+Technology;AI+%26+Programming+Enthusiast;Always+Learning+%26+Coding" alt="Typing Animation" />
 </p>
 
 ---
@@ -33,8 +37,8 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hawraa-a&show_icons=true&theme=omni&count_private=true" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hawraa-a&theme=omni" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Hawraa-a&show_icons=true&count_private=true&title_color=E6B3FF&icon_color=E6B3FF&text_color=FFFFFF&bg_color=000000" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hawraa-a&stroke=E6B3FF&ring=E6B3FF&fire=E6B3FF&currStreakLabel=E6B3FF&background=000000&sideNums=FFFFFF&sideLabels=FFFFFF&dates=CCCCCC" alt="GitHub Streak"/>
 </p>
 
 ---
@@ -50,16 +54,3 @@
 <p align="center">
   💖 Thanks for visiting my profile! Keep learning, coding, and shining ✨
 </p>
-
----
-
-<style>
-@keyframes wave {
-  0% { transform: rotate(0deg); }
-  20% { transform: rotate(20deg); }
-  40% { transform: rotate(-10deg); }
-  60% { transform: rotate(20deg); }
-  80% { transform: rotate(-5deg); }
-  100% { transform: rotate(0deg); }
-}
-</style>
