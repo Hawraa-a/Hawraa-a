@@ -38,7 +38,10 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Hawraa-a&show_icons=true&count_private=true&title_color=E6B3FF&icon_color=E6B3FF&text_color=FFFFFF&bg_color=000000" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hawraa-a&stroke=E6B3FF&ring=E6B3FF&fire=E6B3FF&currStreakLabel=E6B3FF&background=000000&sideNums=FFFFFF&sideLabels=FFFFFF&dates=CCCCCC" alt="GitHub Streak"/>
+  <img 
+  src="https://github-readme-streak-stats.herokuapp.com/?user=Hawraa-a&stroke=E6B3FF&ring=E6B3FF&fire=E6B3FF&currStreakLabel=E6B3FF&background=000000&sideNums=FFFFFF&sideLabels=FFFFFF&dates=CCCCCC&cache_seconds=0" 
+  alt="GitHub Streak"
+/>
 </p>
 
 ---
