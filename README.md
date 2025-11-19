@@ -52,5 +52,5 @@
 ---
 
 <p align="center">
-  💖 Thanks for visiting my profile! Keep learning, coding, and shining ✨
+   Thanks for visiting my profile! Keep learning, coding, and shining ✨
 </p>
